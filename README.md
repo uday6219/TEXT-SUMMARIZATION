@@ -11,3 +11,6 @@ Task Descriptions:-
 This task involves building a model to condense long documents into shorter, coherent summaries while retaining the core meaning.
 Technique: Used Natural Language Processing (NLP) libraries like NLTK, Spacy, or Transformer-based models (e.g., BART or T5).
 Implementation: Focused on extractive (picking key sentences) or abstractive (generating new text) summarization techniques within the Google Colab environment.**
+
+**output**
+<img width="1366" height="720" alt="Image" src="https://github.com/user-attachments/assets/496d36d9-cf57-4fbc-8de8-235e493ab06c" />
